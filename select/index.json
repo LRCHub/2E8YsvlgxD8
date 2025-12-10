@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "【歌ってみた】 Happy Halloween Rap ver. 【nqrse】",
+  "base_artist": "nqrse",
+  "createdAt": "2025-12-10T15:18:03.544113Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Happy Halloween Rap ver.",
+      "artist": "nqrse",
+      "has_synced": false,
+      "path": "select/pl_01_Happy_Halloween_Rap_ver._nqrse.txt"
+    }
+  ]
+}
